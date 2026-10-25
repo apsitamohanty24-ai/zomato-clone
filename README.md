@@ -2,7 +2,7 @@
 
 A responsive Zomato clone built with pure HTML & CSS.
 
-**Live Link:** Coming soon...
+**Live Link:** (https://apsitamohanty24-ai.github.io/zomato-clone/)
 
 ### Features
 - Header with Logo & Navigation
